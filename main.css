@@ -2,4 +2,9 @@ body p {
   font-weight: bold;
   color: #ff00ff; }
 
+/*@media all and (max-height: 600px) {
+  .side { height:300px; :550px; }
+}
+*/
+
 /*# sourceMappingURL=main.css.map */
